@@ -1,66 +1,64 @@
 # 3D-rendering-Models
 # 3D Models & Renders
 
-Interactive 3D models built and published on Sketchfab — covering electronics, product visualization, and construction site documentation.
+Interactive 3D models published on Sketchfab — covering electronics product visualization and construction site documentation. Click any image to open the interactive model.
 
 ---
 
 ## Motherboard
 
-> Detailed 3D model of a computer motherboard — component-level visualization of PCB layout, chipsets, and connectors.
+Detailed 3D model of a computer motherboard — component-level visualization of PCB layout, chipsets, capacitors, and connectors.
 
-[![Motherboard](https://media.sketchfab.com/models/27f7937757764ed88aa229e0f1d0c8ea/thumbnails/84c37f9b826b4af9a24adf81b10d1b50/1920x1080.jpeg)](https://sketchfab.com/3d-models/motherboard-27f7937757764ed88aa229e0f1d0c8ea)
+[![Motherboard](assets/motherboard.png)](https://sketchfab.com/3d-models/motherboard-27f7937757764ed88aa229e0f1d0c8ea)
 
-**[View interactive 3D model →](https://sketchfab.com/3d-models/motherboard-27f7937757764ed88aa229e0f1d0c8ea)**
+**[View interactive 3D model on Sketchfab →](https://sketchfab.com/3d-models/motherboard-27f7937757764ed88aa229e0f1d0c8ea)**
 
 ---
 
 ## 3D Render — Laptop
 
-> Photorealistic 3D render of a gaming laptop — surface materials, screen glow, and product-level detail.
+Photorealistic 3D render of a gaming laptop — surface materials, screen glow, keyboard detail, and product-level finish.
 
-[![3D Render Model of Laptop](https://media.sketchfab.com/models/3bfee25b0f1e4223bdccf21c0622dbce/thumbnails/7e690ef4f7bb404d855e7c5e1aeba08f/1920x1080.jpeg)](https://sketchfab.com/3d-models/3d-render-model-of-laptop-3bfee25b0f1e4223bdccf21c0622dbce)
+[![3D Render Model of Laptop](assets/laptop.png)](https://sketchfab.com/3d-models/3d-render-model-of-laptop-3bfee25b0f1e4223bdccf21c0622dbce)
 
-**[View interactive 3D model →](https://sketchfab.com/3d-models/3d-render-model-of-laptop-3bfee25b0f1e4223bdccf21c0622dbce)**
+**[View interactive 3D model on Sketchfab →](https://sketchfab.com/3d-models/3d-render-model-of-laptop-3bfee25b0f1e4223bdccf21c0622dbce)**
 
 ---
 
 ## Walkie Talkie (Krótkofalówka)
 
-> High-detail 3D model of a handheld radio transceiver — antenna, keypad, display, and casing accurately modeled.
+High-detail 3D model of a handheld VX-6R radio transceiver — antenna, keypad, LCD display, speaker grille, and casing accurately modeled.
 
-[![Walkie Talkie](https://media.sketchfab.com/models/3fbd1dfd0bc542f3a20476445c027335/thumbnails/c6d9e60ddfe6489b8e3a30afd9c8e41b/1920x1080.jpeg)](https://sketchfab.com/3d-models/krotkofalowka-3fbd1dfd0bc542f3a20476445c027335)
+[![Walkie Talkie](assets/walkie-talkie.png)](https://sketchfab.com/3d-models/krotkofalowka-3fbd1dfd0bc542f3a20476445c027335)
 
-**[View interactive 3D model →](https://sketchfab.com/3d-models/krotkofalowka-3fbd1dfd0bc542f3a20476445c027335)**
+**[View interactive 3D model on Sketchfab →](https://sketchfab.com/3d-models/krotkofalowka-3fbd1dfd0bc542f3a20476445c027335)**
 
 ---
 
 ## Construction Site
 
-> 3D scan / model of a construction site — used for feasibility analysis, progress tracking against planned schedules, and stakeholder reporting.
+3D scan of a multi-storey construction site — used for real-time progress tracking against planned schedules, critical path deviation analysis, and stakeholder reporting.
 
-[![Construction Site](https://media.sketchfab.com/models/92771f1b97c747e2a38ec8e65898c6d1/thumbnails/d9de6e1e15d04f6da2cef17e9b6b84e5/1920x1080.jpeg)](https://sketchfab.com/3d-models/construction-site-92771f1b97c747e2a38ec8e65898c6d1)
+[![Construction Site](assets/construction-site.png)](https://sketchfab.com/3d-models/construction-site-92771f1b97c747e2a38ec8e65898c6d1)
 
-**[View interactive 3D model →](https://sketchfab.com/3d-models/construction-site-92771f1b97c747e2a38ec8e65898c6d1)**
+**[View interactive 3D model on Sketchfab →](https://sketchfab.com/3d-models/construction-site-92771f1b97c747e2a38ec8e65898c6d1)**
 
 ---
 
 ## About these models
 
-These models were created as part of two projects:
-
 **Construction Site Feasibility & Resource Planning (Jan – Apr 2026)**
-The construction site model was used to assess real-time build progress against planned schedules — producing visual deliverables that communicated critical path deviations and hardware status to non-technical project stakeholders.
+The construction site model was applied to assess real-time build progress against planned schedules — producing visual deliverables that communicated critical path deviations and hardware status to non-technical project stakeholders.
 
 **Product Visualization**
-The motherboard, laptop render, and walkie talkie models demonstrate product-level 3D visualization — covering electronics, materials, and component detail suitable for technical documentation and stakeholder presentations.
+The motherboard, laptop render, and walkie talkie models demonstrate product-level 3D visualization — covering electronics, surface materials, and component detail suitable for technical documentation and stakeholder presentations.
 
 ---
 
-## Tools used
+## Tools
 
-`Sketchfab` · 3D modeling & rendering · Product visualization 
+`Sketchfab` · 3D modeling · Product visualization 
 
 ---
 
-*Part of a broader portfolio including [AI Readiness Platform (QuantumEdge)](../quantum-edge) and [Dietary Habits Analysis Dashboard](../dietary-dashboard).*
+*Part of a broader portfolio: [QuantumEdge AI Platform](https://github.com/yourusername/quantum-edge) · [Dietary Habits Dashboard](https://github.com/yourusername/dietary-dashboard)*
